@@ -13,4 +13,4 @@
 
 # 還有一些純資料庫操作是只有開發者可以使用!!
 
-# 你在擔心些甚麼嗎?不妨看看[這裡](https://github.com/Lune419/anti_ryker.exe.wiki.git)
+# 你在擔心些甚麼嗎?不妨看看[這裡]([https://github.com/Lune419/anti_ryker.exe.wiki.git](https://github.com/Lune419/anti_ryker.exe/wiki/%E5%B8%B8%E8%A6%8BQ&A))
