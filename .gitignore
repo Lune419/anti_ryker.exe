@@ -1,0 +1,6 @@
+requirements.txt
+run.bat
+ryker.db
+.vscode
+__pycache__/
+settings.json
